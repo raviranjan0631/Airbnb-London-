@@ -4,6 +4,10 @@ Business problem-
 2. Try various Feature Engineering if possible
 3. Train a model to detect the price using MSE(Mean Sqare Error) as KPI(Key Performance Index)
 
+You can download the data from here
+http://data.insideairbnb.com/united-kingdom/england/london/2019-07-10/data/listings.csv.gz
+and extract the data to listings.csv
+
 First, we have to select relevant features to analyze. I had read various blogs and got to find only 20 features are relevant you can find the notebook below
 <a>https://github.com/raviranjan0631/Airbnb-London-/blob/master/1.%20choosing%20needy%20features.ipynb</a>
 
